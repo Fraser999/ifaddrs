@@ -7,7 +7,6 @@ homepage = "https://maidsafe.net"
 license = "GPL-3.0"
 links = "ifaddrs"
 name = "ifaddrs-sys"
-readme = "README.md"
 repository = "https://github.com/maidsafe/ifaddrs"
 version = "0.1.0"
 

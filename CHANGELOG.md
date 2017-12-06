@@ -1,4 +1,4 @@
 # Ifaddrs - Change Log
 
 ## [0.1.0]
-- Initial impl to privide getifaddrs and freeifaddrs
+- Initial impl to provide getifaddrs and freeifaddrs
