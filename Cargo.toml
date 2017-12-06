@@ -1,9 +1,13 @@
 [package]
-name = "ifaddrs"
-version = "0.1.0"
 authors = ["MaidSafe Developers <dev@maidsafe.net>"]
+description = "ifaddrs implementation for mobile and desktop platforms"
+documentation = "https://docs.rs/ifaddrs"
 homepage = "https://maidsafe.net"
 license = "GPL-3.0"
+name = "ifaddrs"
+readme = "README.md"
+repository = "https://github.com/maidsafe/ifaddrs"
+version = "0.1.0"
 
 [dependencies]
 libc = "~0.2.28"
